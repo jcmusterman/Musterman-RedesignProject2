@@ -59,6 +59,9 @@ section.attention{
   margin:0;
   display: table;
 }
+.attention .upcoming h2{
+  text-align:center;
+}
 .attention .upcoming{
   padding:0 7em 0 0;
   display: table-cell;
